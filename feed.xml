@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小红帽娱乐 RedCap Med - 官方动态</title>
+    <link>https://www.redcapmed.top/</link>
+    <description>安徽小红帽文化传媒有限公司官方信息发布：BIGO LIVE 主播招募、孵化培训、招商合作等业务动态。</description>
+    <language>zh-CN</language>
+    <copyright>© 安徽小红帽文化传媒有限公司</copyright>
+    <lastBuildDate>Sun, 06 Sep 2026 13:30:00 +0800</lastBuildDate>
+    <atom:link href="https://www.redcapmed.top/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>BIGO LIVE 官方认证华语公会——安徽小红帽文化传媒有限公司</title>
+      <link>https://www.redcapmed.top/#about</link>
+      <guid isPermaLink="false">redcapmed-post-001</guid>
+      <pubDate>Sun, 06 Sep 2026 13:00:00 +0800</pubDate>
+      <description>安徽小红帽文化传媒有限公司（小红帽娱乐 RedCap Med）是 BIGO LIVE 官方认证的华语公会，深耕海外直播精细化运营，为主播提供标准化孵化、透明结算、7×24 小时运营陪跑。</description>
+      <category>公司动态</category>
+    </item>
+
+    <item>
+      <title>全国主播招募｜零基础也能做海外直播</title>
+      <link>https://www.redcapmed.top/#recruit</link>
+      <guid isPermaLink="false">redcapmed-post-002</guid>
+      <pubDate>Sun, 06 Sep 2026 12:30:00 +0800</pubDate>
+      <description>小红帽娱乐面向全国招募直播主播，提供 7 天首播专项帮扶、美颜调试、话术体系、合规避雷、粉丝运营培训，一对一专属运营全程陪跑，适配零基础与跨行新人。</description>
+      <category>主播招募</category>
+    </item>
+
+    <item>
+      <title>渠道招商合作｜MCN 机构 / 个人渠道 双向赋能</title>
+      <link>https://www.redcapmed.top/#investment</link>
+      <guid isPermaLink="false">redcapmed-post-003</guid>
+      <pubDate>Sun, 06 Sep 2026 12:00:00 +0800</pubDate>
+      <description>小红帽娱乐诚邀有资源、有团队、有个人流量的 MCN 机构与个人渠道商合作，提供官方公会牌照背书、独立运营后台、阶梯分成体系、专属对接运营。</description>
+      <category>渠道招商</category>
+    </item>
+
+    <item>
+      <title>海外直播合规运营｜一站式解决方案</title>
+      <link>https://www.redcapmed.top/#advantages</link>
+      <guid isPermaLink="false">redcapmed-post-004</guid>
+      <pubDate>Sun, 06 Sep 2026 11:30:00 +0800</pubDate>
+      <description>小红帽娱乐提供 BIGO LIVE 全平台合规运营支持：实时翻译、合规话术、跨时区调度、多语种粉丝运营，覆盖东南亚、中东、欧美上百个国家与地区。</description>
+      <category>业务介绍</category>
+    </item>
+
+    <item>
+      <title>主播孵化体系｜7 天首播陪跑 / 1 对 1 运营</title>
+      <link>https://www.redcapmed.top/#training</link>
+      <guid isPermaLink="false">redcapmed-post-005</guid>
+      <pubDate>Sun, 06 Sep 2026 11:00:00 +0800</pubDate>
+      <description>小红帽娱乐自建标准化新人孵化体系：7 天首播专项帮扶、一对一专属运营陪跑、合规话术与场景话术、形象打造与粉丝留存培训。</description>
+      <category>孵化培训</category>
+    </item>
+
+  </channel>
+</rss>
